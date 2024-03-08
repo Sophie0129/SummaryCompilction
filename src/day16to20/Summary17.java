@@ -74,9 +74,9 @@ main > controller > (인터페이스)LoginService.registerFunc(root) > LoginServ
 public void 메소드명() 일때는 자료형인 Parent 까지 같이 넣어준다.
 
 
+생성자에서는 객체를 얻기전 초기화라서 생성자초기화 대신 상속받는 initializable을 사용
 
-
-
+.setItem();  > 데이터만 새롭게 추가한다
 
 
 */
